@@ -1,8 +1,6 @@
-# EL-Base-Network-Data-Classification
-Research Work in the Domain of Smart Security to improve human life expectancy in an Autonomous Smart Home network.
+# EL-Based-Network-Data-Classification
+Research Work in the Domain of Networks to effectively classify data and use SDN clustering in Smart Grids.
 
-We utilised a subset of the diverse yet realistice ACI IoT Network Traffic Dataset monitoring a setup mimicking real-life smart homes.
+Through in-depth pre-processing and fine-tuning of parameters we proposed a 3 layer system model equiped with EL classifiication layer to correctly classify various types of network data.
 
-Through in-depth pre-processing and fine-tuning of parameters we proposed a 3 layer system model equiped with DL detection layer to correctly classify numerous malicious data.
-
-Further, the DL layer comprised of a 1D CNN Model, put through rigorous testing with different optimizers and exhaustive evaluation of the results through various metrics.
+Further, the EL layer comprised of a 8 different ML Classification models evaluated using multiple metrics.
